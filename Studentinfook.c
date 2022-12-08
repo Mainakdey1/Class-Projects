@@ -77,14 +77,26 @@ main()
    	insert(6,3,2,"Anurag Chakraborty","30.09.2002","Mr. A. Chakraborty","AB+","Ballygunge","+91 969XXXXXXX");
 	insert(8,3,2,"Sandipan Chakraborty","30.08.2002","Mr. N.D. Chakraborty","O+","Dum Dum","+91 903XXXXXXX");
 	insert(12,3,2,"Sritama Das","24.09.2002","Mr. S.Das","A+","Behala","+91 810XXXXXXX");
-    insert(15,3,2,"Mainak Dey","11.08.2003","Mr. M. Dey","O+","Patuli","+91 84XXXXXXXX");
+        insert(15,3,2,"Mainak Dey","11.08.2003","Mr. M. Dey","O+","Patuli","+91 84XXXXXXXX");
 	insert(17,3,2,"Sohini Dey","23.01.2003","Mr. U. Dey","A+","Baranagar","+91 999XXXXXXX");
+   
+	
+	    insert(51,3,2,"Neha Dhupia","23.11.2002","Mr. S Dhupia","O+","Barrackpore","91 94XXXXXXXX");
+    insert(52,3,2,"Nihal Dhandhania          ","23.10.2002","Mr. K Dhandhania    ","O+","Barrackpore","+91 99XXXXXXXXX");
     insert(50,3,2,"Jolly Singh","30.10.2003","Mr. Singh","O+","Khidderpore","+91 98XXXXXXXX");
-    insert(51,3,2,"Neha Dhupia","23.11.2002","Mr. S Dhupia","O+","Barrackpore","91 94XXXXXXXX");
-    insert(52,3,2,"Farhan Khan","23.10.2002","Mr. K Khan","O+","Barrackpore","+91 99XXXXXXXXX");
-    insert(53,3,2,"Quresh Ahmed","18.09.2002","Mr. G Ahmed","O+","Midnapore ","+91 99XXXXXXXXX");
-    insert(54,3,2,"Riya Gupta ","14.12.2002","Mr. G Gupta","O+","Howrah","+91 99XXXXXXXXX");
+    insert(53,3,2,"Shubhodip Das","18.09.2002","Mr. A Das  ","O+","Midnapore ","+91 99XXXXXXXXX");
+    insert(54,3,2,"Rifa Mullick ","14.12.2002","Mr. G Mullick","O+","Howrah","+91 99XXXXXXXXX");
     insert(55,3,2,"Rahul Gupta","20.08.2002","Mr. A Gupta    ","O+","Salt Lake  ","+91 99XXXXXXXXX");  
+    insert(14,3,2,"Pabitra Paul","01.05.2002","Mr P Paul","A+","Kakurgachi","95XXXXXXXX")
+    insert(16,3,2,"Shreya Sen","15.04.2001","Mr K Sen","O+","Bihar","78XXXXXXXX")
+    insert(20,3,2," Bhaskar Chetri","24.09.2002","Mr M Chetri","A+","Kolkata","81XXXXXXXX")
+    insert(25,3,2,"Aditi Sharma","20.08.2002","Mr S Sharma","B+","Dumdum","91XXXXXXXX")
+    insert(35,3,2," Roni Mukherjee","10.10.2002","Mr D Mukherjee","AB+","Pailan","98XXXXXXXX")
+    insert(14,3,2,"Dhrubaraj Dey","02.06.2002","Mr R Dey","A+","New Alipore","75XXXXXXXX")
+    insert(16,3,2,"Priyanka Rakshit","17.08.2001","Mr A Rakshit","O+","Bihar","87XXXXXXXX")
+    insert(20,3,2," Ayushmaan poddar","25.01.2002","Mr M Poddar","A+","Kolkata","98XXXXXXXX")
+    insert(25,3,2,"Adil Sehab ","19.12.2002","Mr A Sehab","B+","Dumdum","99XXXXXXXX")
+    insert(35,3,2,"Aman Sigh","10.10.2002","Mr A Singh","AB+","Pailan","75XXXXXXXX")
 	do{
 		printf("ENTER CHOICE:\n 1.SEARCH STUDENT RECORD \n 2.EXIT\n");
 		scanf("%d",&option);
